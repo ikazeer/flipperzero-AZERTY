@@ -2,7 +2,7 @@
 
 With this patch, you can use the **Bad USB module** on computers configured to use the AZERTY layout
 
-I based myself on this file [https://github.com/Log-s/flipperzero-contributions](this) which I adapted to the new firmware.
+I based myself on this file [this](https://github.com/Log-s/flipperzero-contributions) which I adapted to the new firmware.
 
 I will try to update it regularly if the firmware evolves
 
