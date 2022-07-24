@@ -8,5 +8,5 @@ I will try to update it regularly if the firmware evolves
 
 ### Installation
 1. First replace `\firmware\targets\furi_hal_include\furi_hal_usb_hid.h` with the patched version: [furi_hal_usb_hid.h](furi_hal_usb_hid.h)
-2. To compile the firmware, you can use the following tutorial: [here](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/HowToBuild.md)
+2. To compile the firmware, you can use the following tutorial: [click here](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/HowToBuild.md)
 3. To flash the firmware : In the qFlipper companion app, choose Install from file then use `\dist\f7-C\flipper-z-f7-full-local.dfu`
